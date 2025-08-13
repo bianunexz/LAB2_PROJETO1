@@ -14,6 +14,3 @@ def aleatorio():
     numero_7=random.randint(0,100)
     media=(numero_1+numero_2+numero_3+numero_4+numero_5+numero_6+numero_7)/7
     return media
-
-m = aleatorio()
-print(m)
